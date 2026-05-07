@@ -1,4 +1,4 @@
-
+Notion for macOS custom Plugin - dark mode and OCR scanning is the best Notion for macOS plugin, featuring dark mode and OCR scanning. Safe, efficient, and optimized for macOS
 
 
 
